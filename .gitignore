@@ -1,0 +1,16 @@
+# all project files
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.opensdf
+*.sdf
+
+# all cmake related files
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+
+# all debug related files
+Debug/
+StudyCPlusPlus11.dir/
+Win32/
