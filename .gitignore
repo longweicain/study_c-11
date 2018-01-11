@@ -4,6 +4,7 @@
 *.sln
 *.opensdf
 *.sdf
+*.suo
 
 # all cmake related files
 CMakeFiles/

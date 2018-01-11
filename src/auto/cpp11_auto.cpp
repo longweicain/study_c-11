@@ -1,4 +1,4 @@
-#include "auto.h"
+#include "cpp11_auto.h"
 
 namespace test_cpp11
 {
